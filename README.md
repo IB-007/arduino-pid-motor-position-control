@@ -158,8 +158,8 @@ labelled like this (check **your** board's labels – wire colours differ betwee
 
 1. Download / clone this repository.
    ```bash
-   git clone https://github.com/IB-007/simple_pid_control_with_motor_encoder.git
-   cd simple_pid_control_with_motor_encoder
+   git clone https://github.com/IB-007/arduino-pid-motor-position-control.git
+   cd arduino-pid-motor-position-control
    ```
 2. Open **Arduino IDE** → **File → Open…** → select `motor_pid/motor_pid.ino`.
    (The sketch must stay inside a folder with the same name, `motor_pid`.)
